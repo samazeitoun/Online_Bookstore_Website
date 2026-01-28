@@ -4,7 +4,7 @@ Start Apache and MySQL
 Open your browser
 Type in the URL : localhost/phpmyadmin
 Create a New Database and name it "bookstore"
-Get the contents in database.sql file and copy them
+Get the contents in database.sql file and copy them (OR you can create the database manually)
 Paste in SQL in phpMyAdmin and press Go
 Put the bookstore folder in xampp in htdocs
 Open your browser
